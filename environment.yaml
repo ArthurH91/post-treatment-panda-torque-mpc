@@ -1,0 +1,12 @@
+channels:
+  - robostack-staging
+  - conda-forge
+dependencies:
+  - python=3.10
+  - bagpy
+  - hpp-fcl
+  - matplotlib
+  - numpy
+  - pandas
+  - pinocchio
+  - seaborn

@@ -1,0 +1,6 @@
+*.pyc
+bags/*
+pickle/*
+!bags/.gitkeep
+!pickle/.gitkeep
+*__pycache__*
